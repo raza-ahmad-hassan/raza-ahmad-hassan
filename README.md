@@ -1,37 +1,53 @@
-# Hi 👋, I'm Raza Ahmad
+# Hi 👋, I'm Raza Ahmad Hassan
 
-### 🎓 Computer Science Student | 💻 Aspiring Software Developer
+🎓 **Computer Science Student**
+💻 **Aspiring Software Developer**
+🇵🇰 **Pakistan**
 
-I'm a Computer Science student from Pakistan, passionate about programming, problem solving, and building real-world projects.
+I’m a Computer Science student passionate about **programming, problem solving, and building real-world projects**.
 
 ## 🚀 About Me
 
-* 🎓 Computer Science Student
-* 💻 Learning Software Development
-* 🧠 Improving my programming & problem-solving skills
-* 🚀 Building projects and learning from them
-* 🎯 My goal is to become a professional Software Developer
+* 🎓 Studying Computer Science
+* 💻 Learning software development
+* 🧠 Improving problem-solving skills
+* 🔨 Building practical projects
+* 📚 Learning something new every day
+* 🎯 Working towards becoming a professional software developer
 
 ## 🛠️ Skills
+
+**Languages**
 
 * C++
 * Python
 * Java
+
+**Concepts**
+
 * Object-Oriented Programming
 * Data Structures & Algorithms
-* Git & GitHub
+* File Handling & Serialization
+
+**Tools**
+
+* Git
+* GitHub
+* NetBeans
+* VS Code
 
 ## 📚 Currently Learning
 
-* Advanced Programming
 * Data Structures & Algorithms
 * Software Development
+* Git & GitHub
+* Building real-world applications
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-More projects coming soon...
+> Projects will be added here as I build and improve them.
 
-## 📈 My Journey
+## 📈 My Developer Journey
 
 **Learn → Build → Improve → Share → Grow 🚀**
 
